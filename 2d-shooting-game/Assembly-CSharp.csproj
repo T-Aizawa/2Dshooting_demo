@@ -61,7 +61,14 @@
      <Compile Include="Assets\_Completed-Assets\Scripts\Player.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Score.cs" />
      <Compile Include="Assets\_Completed-Assets\Scripts\Spaceship.cs" />
+     <Compile Include="Assets\Scripts\Background.cs" />
+     <Compile Include="Assets\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Scripts\DestroyArea.cs" />
+     <Compile Include="Assets\Scripts\Emitter.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Explosion.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Spaceship.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
